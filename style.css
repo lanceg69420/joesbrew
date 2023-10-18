@@ -92,6 +92,7 @@ ul{
   list-style: none;
 }
 .footer{
+  border-top-right-radius: 100px;
   border-top-left-radius: 100px;  
   background-color: #5C4033;
     padding: 70px 0;
